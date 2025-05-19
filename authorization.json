@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "direct-hope-296702",
+  "private_key_id": "7e5411a805729be3754f217be357a8d412b0dff2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDYXCA/7u/lJqUY\n+tRwQccNYaQFfFXmeyZ9rP9J6xZ3qelb3D+4KJmFXv9/Xt0a0aRkS9xpzVAFxzSS\n4gpRnolbbn8+cHoJyHuECVN5offQsk65Y0bxX2u1RlW0kJgGkYs0n9zzu/+dEeam\n6fVDQKfJKZAObB8ZR2Og6gVrb7SycMm7abP4MN8glMXXTS/bnX4DsRXKIQBy6PnE\nv97PAdL+0tQbTILXHugxTd7a0z3LyLp4n9bfHkrVIaJielcykcg0EdHuW5gAp3iF\nVFFWa7MgRP9fs7C1pKLgO5xwYApBwIb9W1dXbzkC4nBmZ3hFlmDnoP3wumZQtl8X\n60g8dwLhAgMBAAECgf89aekS52qGS8c7+qGn5llEyHJxHC9F568FUsB5kEF7C2qH\nU1LC8231wwFt0NTyHTqMkvv9tvRVWjY80Jdyk42/EPO4Gt/ekbR9xifrtA35L05+\nplonfu5pMOMjCJLJSobjvnz5XQ6G3I3xfczLSjmristZTKzcgBHHm1CZLnFxigzA\nr2Pn40F5Upiehf1Ao/OS6vcaVR9ePKRmq9ohKMQqSRFa5VtxLc45sKNswW/TM4j6\ns1pJ2k12TD4dSunZlEQsqoQloXEFlRKGShiSm+z8zvXBQ4C0Hlk35/BVXQdxIPhK\nQoPeL99C9HzEmBdxZZyZhkgybfCf0ZvSICD7MlkCgYEA5oEs2nJCGWm14xbO/CR5\nnt+iVU9SXyjOFrYvHfrMO2d/ca3c1xZYODZVj6mJG18Nnr/X6dzDJC2bbFMOqxuK\nBmhe/URjic72uARkd3Pro267VszVPtiCSgwjFhW5/WttZrMIY5b3hZASVJgYLnQR\nnCfDDQ99wJP3PmwDlVg3E5MCgYEA8EpwBBCyUC72IAVbLXWCRbmn3JcdsG+XU+Rc\nMRca8zgGO8R2jmDxQ7GXUk+bpkA1JHri8JISnCaVV9ZXnFJb5eSY6UkoekfrIsTy\nXLgW90ecoeRIZjxpy+X89j6TKIhDlWuR4INHS7QCUHOZw9D41TOk0Prp9pNSRSuq\nz9+UgDsCgYBiWqQE4dQKe+y8ZTMUq4upmsrtk9cV+5dUYZBhPm5+un7KxuEAdexW\nr/h6QGDcaQaqwjki9KvfeAZlhlsv76RJb6d4cgH2/3SOuHEV90SIi+sr8mLbWg7e\nAafG+KZP19Lqi2H8/KHJP9xSdEN9LtGEzAKSRBXoYjqRTA2LYATAOQKBgQChZw6o\n3GI50+GFDrP47AaOOS+Uz3iky8AVHL4ER2XV21rsiIGuD1Xfx4lCQ7DkUhqgH18S\ngru3YX9NGe+NVBDgcdV4Vai3wlkh6LJ3LzxV6yc94y3yZkAWMqzg5pVIU4c59aBt\n8yBPrGElkxDE5DhQVTkvGmtPMhO/3J4GtUJ1gwKBgQDIi6+U/MFhw3fWzQGvTrdQ\nX2Hl4MrgVd7nRdEg2mlvQMkxraSklQ0HK7pKfaYXY8U7TY0C9y8+otFRvCeCpKCm\nTdZ91P5i6JhRj9p2hGUghhaoPxzU3FGn2uVCGvgejH/c39tnYilPRCHpPSCj8JEx\ndVIITXO8RIs6OCn7AI4aXw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-test-cavity-detection@direct-hope-296702.iam.gserviceaccount.com",
+  "client_id": "114142184627844905439",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-test-cavity-detection%40direct-hope-296702.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
