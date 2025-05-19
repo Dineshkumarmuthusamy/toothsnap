@@ -2,7 +2,7 @@ import os
 import streamlit as st
 import io
 from PIL import Image, ImageDraw
-from Library.vertex_ai_predict_image import predict_image_object_detection_sample
+from vertex_ai_predict_image import predict_image_object_detection_sample
 def upload_my_image_and_predict():
     st.write("## Detect potential dental issues")
     st.write(
